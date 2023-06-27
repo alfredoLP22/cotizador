@@ -1,4 +1,4 @@
-import { CotizadorProvider } from "./context/Cotizador-provider";
+import { CotizadorProvider } from "./context/CotizadorProvider";
 import AppSeguro from "./components/AppSeguro";
 
 function App() {

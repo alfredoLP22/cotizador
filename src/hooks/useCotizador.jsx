@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import CotizadorContext from "../context/Cotizador-provider";
+import CotizadorContext from "../context/CotizadorProvider";
 
 const useCotizador = () => {
     return useContext(CotizadorContext);
